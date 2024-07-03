@@ -15,6 +15,4 @@
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data and data mining algorithms.
 
 ## Some Statistics About Me
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=dingyuqi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingyuqi&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
