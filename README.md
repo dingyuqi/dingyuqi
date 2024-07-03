@@ -10,7 +10,7 @@
 ✨My blog✨
 </h1>
 
-My blog is : [keep it simple](https://dingyuqi.com)
+***My blog is : [keep it simple](https://dingyuqi.com)***
 
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data and data mining algorithms.
 
