@@ -6,8 +6,11 @@
 - 🔭 I’m currently working on Big Data
 - 💬 Ask me about Data mining and Database
 - 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dingyq2023@gmail.com)
+<h1 align="center">
+✨My blog✨
+</h1>
 
-***My blog is : [Alex's blog](https://dingyuqi.com)***. 
+My blog is : [Alex's blog](https://dingyuqi.com)
 
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data and data mining algorithms.
 
