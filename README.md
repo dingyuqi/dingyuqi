@@ -23,7 +23,7 @@ The goal is to explain computer knowledge in simple and easy-to-understand langu
         <img src='https://github-readme-stats.vercel.app/api?username=dingyuqi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Dingyuqi's%20Stats&hide_border=true' alt='Dingyuqi's%20Stats'>
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Top%20Language&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Top%20Language&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top%20Language'>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Top%20Language&langs_count=3&hide_border=true&layout=compact&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Top%20Language&langs_count=3&hide_border=true&layout=compact' alt='Top%20Language'>
     </picture>
 </div>
