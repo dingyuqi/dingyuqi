@@ -10,9 +10,20 @@
 ✨My blog✨
 </h1>
 
-***My blog is : [keep it simple](https://dingyuqi.com)***
+### My blog is : [***keep it simple***](https://dingyuqi.com)
 
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data and data mining algorithms.
 
+
+</br></br></br>
 ## Some Statistics About Me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingyuqi&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align='left'>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dingyuqi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Dingyuqi's%20Stats&hide_border=true&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api?username=dingyuqi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Dingyuqi's%20Stats&hide_border=true' alt='Dingyuqi's%20Stats'>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dingyuqi&custom_title=Top%20Language&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
+    </picture>
+</div>
