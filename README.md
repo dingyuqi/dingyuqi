@@ -9,19 +9,7 @@
 
 </br>
 
-<div style="display: flex; align-items: center;">
-  <img height="35" alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-  <img height="35" alt="go" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png">
-  <img height="35" alt="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
-  <img height="35" alt="k8s" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png">
-  <img height="35" alt="jenkins" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png">
-  <img height="35" alt="hadoop" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573">    
-  <img height="35" alt="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png">
-  <img height="35" alt="postgres" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-  <img height="35" alt="hive" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e">
-  <img height="35" alt="oracle" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png">
-</div>
-
+<img src="https://skillicons.dev/icons?i=go,py,redis,mysql,postgres,flask,kafka,linux,git,jenkins,kubernetes,docker" />
 </br></br></br>
 
 <h1 align="center">
