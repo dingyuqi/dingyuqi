@@ -1,7 +1,10 @@
+
+![Header](./github-header-image.png)
+
 <div align=center>
-  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=59c798&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+dingyuqi%F0%9F%91%8B">
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=59c798&center=true&vCenter=true&random=false&width=280&lines=Welcome+to+my+home">
 </div>
-<h3 align="center">🚀 Big Data Engineer & Back-end Engineer 🚀</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dingyuqi" alt="dingyuqi" /> </p>
 
 **About Me**
