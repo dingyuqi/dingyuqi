@@ -6,33 +6,24 @@
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dingyuqi" alt="dingyuqi" /> </p>
-
-**About Me**
-- 🔭 I’m currently working on Big Data
-- 💬 Ask me about Data mining and Database
-- 📫 How to reach me:  [gmail](mailto:dingyq2023@gmail.com)
-
 </br>
 
-### Tech stack
-
+## Tech Stack
 <picture><img src="https://skillicons.dev/icons?i=go,py,redis,mysql,postgres,flask,kafka"></picture>
 
-### Tools I use
-
+## Tools I Use
 <picture><img src="https://skillicons.dev/icons?i=vscode,pycharm,git,kubernetes,docker,vercel,jenkins"></picture>
-</br></br></br>
 
-<h1 align="center">
-✨My blog✨
-</h1>
+</br></br>
 
-### My blog is : [***keep it simple***](https://dingyuqi.com)
+## How to Contact Me
+### - My blog is : [***Keep It Simple***](https://dingyuqi.com)
+The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data, database and data mining algorithms.
 
-The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data and data mining algorithms.
+### - Send me [📬 GMail](mailto:dingyq2023@gmail.com)
 
+</br></br>
 
-</br></br></br>
 ## Some Statistics About Me
 <picture>
   <source
