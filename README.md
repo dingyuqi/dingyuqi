@@ -20,7 +20,7 @@
 ### - My blog is : [***Keep It Simple***](https://dingyuqi.com)
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data, database and data mining algorithms.
 
-### - Send me [📬 GMail](mailto:dingyq2023@gmail.com)
+### - Send me [GMail 📬](mailto:dingyq2023@gmail.com)
 
 </br></br>
 
