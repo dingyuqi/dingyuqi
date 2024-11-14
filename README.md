@@ -9,10 +9,10 @@
 </br>
 
 ## Tech Stack
-<picture><img src="https://skillicons.dev/icons?i=go,py,redis,mysql,postgres,flask,kafka"></picture>
+<picture><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,redis,mysql,oracle,postgres,kafka,grpc,flask&perline=5"></picture>
 
 ## Tools I Use
-<picture><img src="https://skillicons.dev/icons?i=vscode,pycharm,git,kubernetes,docker,vercel,jenkins"></picture>
+<picture><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,goland,pycharm,dbeaver,git,github,kubernetes,docker,vercel,jenkins,grafana&perline=5"></picture>
 
 </br></br>
 
@@ -20,7 +20,7 @@
 ### - My blog is : [***Keep It Simple***](https://dingyuqi.com)
 The goal is to explain computer knowledge in simple and easy-to-understand language. It mainly explains the content related to big data, database and data mining algorithms.
 
-### - Send me [GMail 📬](mailto:dingyq2023@gmail.com)
+### - Send me [Email](mailto:dingyq2023@gmail.com)
 
 </br></br>
 
