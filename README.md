@@ -19,10 +19,9 @@
 ## How to Contact Me
 ### - My blog is : ***[Keep It Simple](https://dingyuqi.com)***
 The goal is to explain computer knowledge in simple and easy-to-understand way. Its content is mainly related to big data, database and data mining algorithms. Most of the articles are written in Chinese.
-<details>
-  <summary>But the website is also available in English :earth_americas:</summary>
-  <a href="https://dingyuqi.com/en/" target="_blank"><b><i>Keep It Simple (en-US)</i></b></a>
-</details>
+
+<b><i>The website is also available in English: </i></b> 
+***[Keep It Simple(en-US)](https://dingyuqi.com/en/)*** :earth_americas:
 
 ### - Send me [Email](mailto:dingyq2023@gmail.com)
 
