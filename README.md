@@ -1,10 +1,6 @@
 
 ![Header](./github-header-image.png)
 
-<div align=center>
-  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=59c798&center=true&vCenter=true&random=false&width=280&lines=Welcome+to+my+home">
-</div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dingyuqi" alt="dingyuqi" /> </p>
 </br>
 
@@ -16,7 +12,7 @@
 
 </br></br>
 
-## How to Contact Me
+## How To Contact Me
 ### - My blog is : ***[Keep It Simple](https://dingyuqi.com)***
 The goal is to explain computer knowledge in simple and easy-to-understand way. Its content is mainly related to big data, database and data mining algorithms. Most of the articles are written in Chinese.
 
