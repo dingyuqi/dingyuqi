@@ -5,7 +5,7 @@
 </br>
 
 ## Tech Stack
-<picture><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,redis,mysql,oracle,postgres,kafka,etcd,grpc,flask&perline=5&theme=dark"></picture>
+<picture><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,gin,flask,redis,mysql,oracle,postgres,kafka,etcd,grpc&perline=5&theme=dark"></picture>
 
 ## Tools I Use
 <picture><img src="https://go-skill-icons.vercel.app/api/icons?i=goland,pycharm,vscode,dbeaver,git,github,kubernetes,docker,vercel,jenkins,grafana&perline=5&theme=dark"></picture>
