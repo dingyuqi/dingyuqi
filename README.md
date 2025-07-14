@@ -14,7 +14,7 @@
 
 ## How To Contact Me
 ### - My blog is : ***[Keep It Simple](https://dingyuqi.com)***
-The goal is to record and explain computer knowledge in a simple and easy-to-understand way. Its content is mainly related to big data, distributed system and backend development. Most of the articles are written in Chinese.
+The goal is to explain computer concepts in simple terms. Its content mainly consists of my notes on big data, distributed systems, and backend development. Most of the articles are written in Chinese.
 
 <b><i>But the website is also available in English: </i></b> 
 ***[Keep It Simple(en-US)](https://dingyuqi.com/en/)*** :earth_americas:
